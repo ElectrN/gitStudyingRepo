@@ -1,4 +1,4 @@
-a = 5
-b = 3
+a = input()
+b = input()
 c = a + b
 print(c)
